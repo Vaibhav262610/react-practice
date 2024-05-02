@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pass {
+  width: 25rem;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.copy-btn {
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
